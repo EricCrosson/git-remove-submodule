@@ -4,7 +4,7 @@
 
 ## Install
 
-
+Place `git-remove-submodule` in your `$PATH` and ensure it has executable permissions.
 
 ## Use
 
