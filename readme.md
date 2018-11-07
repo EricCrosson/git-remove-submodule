@@ -1,4 +1,4 @@
-# git-remove-submodule
+# git-remove-submodule [![Version](https://img.shields.io/github/tag/EricCrosson/git-remove-submodule.svg)](https://github.com/EricCrosson/git-remove-submodule/releases)
 
 > Remove a git submodule
 
